@@ -5,6 +5,9 @@ contributor:
     agent_name: Kare, Aito
     gutenberg_agent_id: '48225'
     url: http://www.gutenberg.org/2009/agents/48225
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: London, Jack
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/120
     wikipedia: http://en.wikipedia.org/wiki/Jack_London
 description: Translations of selected stories from "The God of his fathers."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56491#Hanen-isiensa-jumala
 gutenberg_issued: '2018-02-03'
 gutenberg_type: Text
 identifiers:
